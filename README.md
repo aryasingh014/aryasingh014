@@ -31,10 +31,10 @@
   
 ## 💻 System Specs
 
-<img height="30" src="https://img.shields.io/badge/ASUS-Vivobook_M1502QA-ED1C24?style=for-the-badge&logo=asus&logoColor=white"/>  
-<img height="30" src="https://img.shields.io/badge/OS-Windows_11_Home_Single_Language-0078D6?style=for-the-badge&logo=windows11&logoColor=white"/>   
+<img height="30" src="https://img.shields.io/badge/ASUS-Vivobook_M1502QA-ED1C24?style=for-the-badge&logo=asus&logoColor=white"/>    
 <img height="30" src="https://img.shields.io/badge/GPU-AMD_Radeon_Graphics-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> 
 <img height="30" src="https://img.shields.io/badge/CPU-AMD_Ryzen_7_5800HS-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> 
+<img height="30" src="https://img.shields.io/badge/OS-Windows_11_Home_Single_Language-0078D6?style=for-the-badge&logo=windows11&logoColor=white"/> 
 <img height="30" src="https://img.shields.io/badge/RAM-16GB-4CAF50?style=for-the-badge&logo=hyper&logoColor=white"/>  
 <img height="30" src="https://img.shields.io/badge/BIOS-M1502QA.302-FF9800?style=for-the-badge&logo=american-megatrends&logoColor=white"/>  
  
