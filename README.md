@@ -28,11 +28,16 @@
 <img height="50" width="50" src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/>  <img height="50" width="50" src="https://img.icons8.com/color/48/pycharm.png"/>  <img height="50" width="50" src="https://img.icons8.com/color/50/git.png"/>  <img height="50" width="50" src="https://img.icons8.com/dusk/64/anaconda.png"/>  <img height="50" src="https://img.icons8.com/officel/480/java-eclipse.png"/>  <img height="50" src="https://img.icons8.com/color/480/notion--v1.png" />  <img height="50" width="50" src="https://img.icons8.com/doodle/48/adobe-photoshop.png"/>  <img height="50" width="50" src="https://img.icons8.com/color/48/figma--v1.png"/>  <img height="50" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>  
 
 ---
+  
+## 💻 System Specs
 
-### 💻 Workspace Specs  
-<img height="30" src="https://img.shields.io/badge/ASUS-TUF_A15-ED1C24?style=for-the-badge&logo=asus&logoColor=white"/>  
-<img height="30" src="https://img.shields.io/badge/NVIDIA-RTX_3050-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>  
-<img height="30" src="https://img.shields.io/badge/AMD-Ryzen_7_7435HS-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/>  
+<img height="30" src="https://img.shields.io/badge/ASUS-Vivobook_M1502QA-ED1C24?style=for-the-badge&logo=asus&logoColor=white"/>  
+<img height="30" src="https://img.shields.io/badge/OS-Windows_11_Home_Single_Language-0078D6?style=for-the-badge&logo=windows11&logoColor=white"/>  
+<img height="30" src="https://img.shields.io/badge/CPU-AMD_Ryzen_7_5800HS-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/>  
+<img height="30" src="https://img.shields.io/badge/GPU-AMD_Radeon_Graphics-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/>  
+<img height="30" src="https://img.shields.io/badge/RAM-16GB-4CAF50?style=for-the-badge&logo=hyper&logoColor=white"/>  
+<img height="30" src="https://img.shields.io/badge/BIOS-M1502QA.302-FF9800?style=for-the-badge&logo=american-megatrends&logoColor=white"/>  
+ 
 
 ---
 
