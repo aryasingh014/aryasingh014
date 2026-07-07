@@ -1,67 +1,137 @@
 # Hi, I'm Arya Singh 👋
 
-### Software Engineer | AI & Machine Learning Enthusiast | Full Stack Developer
+### Software Engineer | AI Engineer | Full Stack Developer
 
-Information Technology graduate with a strong interest in Software Engineering, Artificial Intelligence, and Full Stack Development. I enjoy building scalable applications and AI-powered solutions while continuously learning modern technologies.
+🎓 B.Tech in Information Technology | Anna University
 
 ---
 
 ## 🚀 About Me
 
-- 💻 Information Technology Graduate
-- 🤖 Interested in Artificial Intelligence & Machine Learning
-- 🌐 Building Full Stack Web Applications
-- 📚 Currently learning Java, Spring Boot, React, and Generative AI
-- 🎯 Seeking Software Engineer / AI Engineer opportunities
+I am an Information Technology graduate with a strong interest in Software Engineering, Artificial Intelligence, and Full Stack Development. I enjoy building scalable web applications and AI-powered solutions that solve real-world problems.
+
+- 💻 Software Engineering & Full Stack Development
+- 🤖 Artificial Intelligence & Machine Learning
+- 🌐 Building modern web applications
+- 📚 Currently learning Java, Spring Boot, Generative AI & Cloud Technologies
+- 🎯 Open to Software Engineer, AI Engineer, and Full Stack Developer opportunities
 
 ---
 
-## 🌐 Portfolio & Contact
+## 💼 Experience
 
-- 🌍 Portfolio: https://portfolio-opal-nu-bhgp1pflil.vercel.app
-- 💼 LinkedIn: https://www.linkedin.com/in/aryasingh014
-- 📧 Email: **aryasingh14600@gmail.com**
+### AI Engineering Intern
+**CubeAI Solutions Tech Pvt. Ltd.**
+
+- Developed AI-powered applications using Python and modern AI technologies.
+- Built REST APIs and backend services for AI integrations.
+- Worked on automation, data processing, and intelligent workflow solutions.
+- Collaborated with cross-functional teams using Git and Agile practices.
 
 ---
 
-## 🛠 Tech Stack
+## 🎓 Education
+
+**Bachelor of Technology (B.Tech) – Information Technology**
+
+Anna University
+
+---
+
+## 🛠 Technical Skills
 
 ### Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+- Python
+- Java
+- JavaScript
+- SQL
+- HTML5
+- CSS3
 
 ### Frontend
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+- React.js
+- Tailwind CSS
+- Bootstrap
 
 ### Backend
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+- Node.js
+- Express.js
+- FastAPI
+- Spring Boot
 
-### Database
+### AI & Machine Learning
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+- Machine Learning
+- Deep Learning
+- NLP
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
 
-### Tools
+### Databases
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+- MySQL
+- MongoDB
+- Firebase
+
+### Tools & Technologies
+
+- Git & GitHub
+- Docker
+- Linux
+- VS Code
+- Postman
 
 ---
 
-## 📊 GitHub Statistics
+## 🚀 Featured Projects
+
+### 🤖 AI Interview Assistant
+
+AI-powered interview platform with resume analysis, speech recognition, and intelligent feedback.
+
+### 📈 Stock Analytics Dashboard
+
+Interactive dashboard for analyzing historical stock market data using Python and visualization tools.
+
+### 📄 Resume Analyzer
+
+Smart resume screening system using NLP and machine learning techniques.
+
+### 🌐 Personal Portfolio
+
+Modern developer portfolio showcasing projects, skills, and experience.
+
+🔗 Portfolio: https://portfolio-opal-nu-bhgp1pflil.vercel.app
+
+---
+
+## 📜 Certifications
+
+- Python Programming
+- Java Programming
+- Machine Learning
+- Artificial Intelligence
+- SQL & Database Management
+
+---
+
+## 🌐 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/aryasingh014
+- 🌍 Portfolio: https://portfolio-opal-nu-bhgp1pflil.vercel.app
+- 📧 Email: aryasingh14600@gmail.com
+- 💻 GitHub: https://github.com/aryasingh014
+
+---
+
+## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=aryasingh014&show_icons=true&theme=github_dark&hide_border=true)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=aryasingh014&theme=github-dark&hide_border=true)
+![](https://streak-stats.demolab.com?user=aryasingh014&theme=github-dark&hide_border=true)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aryasingh014&layout=compact&theme=github_dark&hide_border=true)
 
@@ -75,8 +145,8 @@ Information Technology graduate with a strong interest in Software Engineering, 
 
 ## 📈 Contribution Graph
 
-[![Arya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aryasingh014&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=aryasingh014&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
-### Thanks for visiting my profile!
+> *"Building intelligent software that solves real-world problems through clean code, scalable architecture, and AI-driven innovation."*
