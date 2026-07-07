@@ -3,7 +3,7 @@
 💻 Aspiring Software Developer | Exploring AI, Java & Full-Stack  
 <img align="right" width="370" height="290" src="https://media3.giphy.com/media/Vh1KrUr6Tvl1RFYYk6/giphy.gif">  
 
-- 🔭 Here's my [portfolio](https://aryasingh014.github.io)  
+- 🔭 Here's my [portfolio](https://portfolio-opal-nu-bhgp1pflil.vercel.app)  
 - 🌱 I’m currently learning Java, AI, and building real-world projects  
 - 🎯 Interested in AI + IoT + Problem Solving  
 - ⚡ Fun fact: I run marathons, cook, and watch tons of anime 🍜  
